@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ALTPlanner/static/css/main.9a63ef83.css",
-    "main.js": "/ALTPlanner/static/js/main.3b9f0c9b.js",
+    "main.js": "/ALTPlanner/static/js/main.7818a006.js",
     "static/js/772.acc888a4.chunk.js": "/ALTPlanner/static/js/772.acc888a4.chunk.js",
     "index.html": "/ALTPlanner/index.html",
     "main.9a63ef83.css.map": "/ALTPlanner/static/css/main.9a63ef83.css.map",
-    "main.3b9f0c9b.js.map": "/ALTPlanner/static/js/main.3b9f0c9b.js.map",
+    "main.7818a006.js.map": "/ALTPlanner/static/js/main.7818a006.js.map",
     "772.acc888a4.chunk.js.map": "/ALTPlanner/static/js/772.acc888a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a63ef83.css",
-    "static/js/main.3b9f0c9b.js"
+    "static/js/main.7818a006.js"
   ]
 }
