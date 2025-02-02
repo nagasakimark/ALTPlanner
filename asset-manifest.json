@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ALTPlanner/static/css/main.301fc4a4.css",
+    "main.js": "/ALTPlanner/static/js/main.b0fd3296.js",
+    "static/js/772.acc888a4.chunk.js": "/ALTPlanner/static/js/772.acc888a4.chunk.js",
+    "index.html": "/ALTPlanner/index.html",
+    "main.301fc4a4.css.map": "/ALTPlanner/static/css/main.301fc4a4.css.map",
+    "main.b0fd3296.js.map": "/ALTPlanner/static/js/main.b0fd3296.js.map",
+    "772.acc888a4.chunk.js.map": "/ALTPlanner/static/js/772.acc888a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.301fc4a4.css",
+    "static/js/main.b0fd3296.js"
+  ]
+}
